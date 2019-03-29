@@ -15,3 +15,19 @@ header{
     display: block;
     text-align: center;
 }
+
+#cart{
+    padding: 16px;
+    border: 2px solid gray;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#cart > select,
+#cart > input{
+    margin-right: 16px;
+}
+
+output{
+    font-weight: 700;
+}
