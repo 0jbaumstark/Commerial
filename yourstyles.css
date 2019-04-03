@@ -18,7 +18,7 @@ header{
 
 #cart{
     padding: 16px;
-    border: 2px solid gray;
+    border: 2px solid orange;
     width: 600px;
     margin: 0 auto;
 }
@@ -31,4 +31,8 @@ header{
 output{
     font-weight: 700;
     width: 90px;
+}
+
+body{
+	background-color: gray;
 }
